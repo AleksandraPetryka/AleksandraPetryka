@@ -1,11 +1,14 @@
-### Hi there 👋
+<p align="center"><img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="100"/></p>
+
+<h1 align=center>Hi there 👋</h1>
+
 
 My name is Aleksandra Petryka and welcome to my Github profile. I am a self-taught front-end developer from Poland.
 <p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-AleksandraPetryka&color=blueviolet" alt=""></p>
 
 ---
 
-## About me :woman_technologist:
+## :woman_technologist:&nbsp; About me:
 
 - 💊 I just graduated from college, and despite I studied pharmacy I decided to change my career to web development.
 - 💻 Currently I'm working on personal projects to apply what I've learned and build a strong portfolio.
@@ -15,8 +18,7 @@ My name is Aleksandra Petryka and welcome to my Github profile. I am a self-taug
 
 ---
 
-  ## Tools 🧰
-
+  ## 🧰 Tools 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
