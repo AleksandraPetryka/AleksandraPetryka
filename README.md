@@ -10,11 +10,31 @@ My name is Aleksandra Petryka and welcome to my GitHub profile. I am a self-taug
 
 ## :woman_technologist:&nbsp; About me:
 
-- 💊 I just graduated from college, and despite studying pharmacy I decided to change my career to web development.
+- 💊 I just graduated from college, and despite studying pharmacy I decided to change my career to IT.
 - 💻 Currently I'm working on personal projects to apply what I've learned and build a strong portfolio.
 - 📚 Staying up-to-date with industry trends and best practices by reading books, blogs, and following relevant courses and tutorials.
 - 🎲 In my free time I enjoy playing board games and hiking.
 - 📫 If you'd like to contact me:  [![Linkedin Badge](https://img.shields.io/badge/aleksandra-petryka?logo=linkedin&color=blue)](https://linkedin.com/in/aleksandra-petryka/)
+
+---
+
+## PORTFOLIO PROJECTS
+
+- <h4>Todo App</h4>
+  https://github.com/AleksandraPetryka/Todo-app
+  Live Site URL: https://aleksandrapetryka.github.io/Todo-app/
+
+- <h4>Interactive Rating</h4>
+  https://github.com/AleksandraPetryka/interactive-rating
+  Live Site URL: https://aleksandrapetryka.github.io/interactive-rating/
+
+- <h4>Food Manager</h4>
+  https://github.com/AleksandraPetryka/Food-Manager
+  Live Site URL: https://aleksandrapetryka.github.io/Food-Manager/
+
+- <h4>Sunnyside Agency Landing Page</h4>
+  https://github.com/AleksandraPetryka/Sunnyside-agency-landing-page
+  Live Site URL: https://aleksandrapetryka.github.io/Sunnyside-agency-landing-page/
 
 ---
 
